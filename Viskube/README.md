@@ -4,8 +4,8 @@
 **Viskube**
 
 
-|**Sr. No.**|**Description**|**Image**
-| :-: | :-: |
+|**Sr. No.**|**Description**|**Image**|
+| :-: | :-: | :-: |
 |1\.|service maps to pod using labels|[<img src="/Images/How_service_maps_to_pods.png" width=1100 >]|
 |2\.|working of  clusterip (default service type)|[<img src="/Images/Cluster-IP.png" width=1100 >]|
 |3\.|working of  NodePort (service type)|[<img src="/Images/NodePort-working.png" width=1100 >]|
